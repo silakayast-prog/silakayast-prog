@@ -14,9 +14,14 @@
 
 <div align="left">
   
+<br>
+
+<div align="left">
+  
 ### 👋 About Me
   
 🧠 I’m currently actively researching deep learning and computer vision using **CNN** and **Grad-CAM**.<br>
+🎯 My academic and career goal is to specialize in **Management Information Systems (MIS)**.<br>
 💻 I have a versatile skill set with experience in backend development, mobile applications, and API design.<br>
 📫 Let's connect on <a href="https://www.linkedin.com/in/sıla-kaya-87322738a">LinkedIn</a>.
 
@@ -31,5 +36,8 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 <img src="https://img.shields.io/badge/Node.js-339939?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 
 </div>
