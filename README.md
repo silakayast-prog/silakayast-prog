@@ -1,13 +1,9 @@
-## Hi there 👋
-Computer Programming Student | Aspiring Management Information Systems (MIS) Professional | AI Enthusiast
-<!--
-**silakayast-prog/silakayast-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Oval (Cylinder) üst banner -->
+![Header](https://capsule-render.vercel.app/api?type=cylinder&color=2B0000&height=250&section=header&text=Sıla%20Kaya&fontSize=50&desc=Computer%20Programming%20Student%20%7C%20Aspiring%20MIS%20Professional&descSize=20&fontColor=ffffff)
 
-Here are some ideas to get you started:
+<div align="center">
+  
+<!-- Beyaz renkli hareketli alt başlık -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Passionate+about+AI+%26+Computer+Vision)](https://git.io/typing-svg)
 
-- 🔭 I’m currently actively researching deep learning and computer vision using CNN and Grad-CAM.
-- 🤔 I’m looking for help with ...
-- 💬 Python, Java, C#, PHP, Flutter, Node.js, and Swagger.
-- 📫 How to reach me: https://www.linkedin.com/in/sıla-kaya-87322738a
-- ⚡ I have a versatile skill set with experience in backend development, mobile applications, and API design.
-
+</div>
